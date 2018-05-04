@@ -41,7 +41,7 @@
   </header>
   </div>
 
-  <div class="jumbotron">
+  <div class="jumbotron" id="services">
   	<div class="text-center">
   	  <h2>TJÄNSTER</h2>
   	<hr>
